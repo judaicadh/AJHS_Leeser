@@ -1,0 +1,636 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://example.org/joegdxjdt5k-mkh92gx7",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Preface written for his book on the defence of the Holy Law, undated"
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "http://digipres.cjh.org/iiif/2/FL471545.jp2/full/max/0/default.jpg",
+      "type": "Image",
+      "format": "image/jpeg",
+      "height": 4075,
+      "width": 2550,
+      "service": [
+        {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "http://digipres.cjh.org/iiif/2/FL471545.jp2",
+          "protocol": "http://iiif.io/api/image",
+          "width": 2550,
+          "height": 4075,
+          "sizes": [
+            {
+              "width": 80,
+              "height": 127
+            },
+            {
+              "width": 159,
+              "height": 255
+            },
+            {
+              "width": 319,
+              "height": 509
+            },
+            {
+              "width": 638,
+              "height": 1019
+            },
+            {
+              "width": 1275,
+              "height": 2038
+            },
+            {
+              "width": 2550,
+              "height": 4075
+            }
+          ],
+          "tiles": [
+            {
+              "width": 1024,
+              "height": 1024,
+              "scaleFactors": [
+                1,
+                2,
+                4,
+                8,
+                16,
+                32
+              ]
+            }
+          ],
+          "profile": [
+            "http://iiif.io/api/image/2/level2.json",
+            {
+              "formats": [
+                "tif",
+                "jpg",
+                "gif",
+                "png"
+              ],
+              "maxArea": 10391250,
+              "qualities": [
+                "bitonal",
+                "default",
+                "gray",
+                "color"
+              ],
+              "supports": [
+                "regionByPx",
+                "sizeByW",
+                "sizeByWhListed",
+                "cors",
+                "regionSquare",
+                "sizeByDistortedWh",
+                "canonicalLinkHeader",
+                "sizeByConfinedWh",
+                "sizeByPct",
+                "jsonldMediaType",
+                "regionByPct",
+                "rotationArbitrary",
+                "sizeByH",
+                "baseUriRedirect",
+                "rotationBy90s",
+                "profileLinkHeader",
+                "sizeByForcedWh",
+                "sizeByWh",
+                "mirroring"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "https://example.org/joegdxjdt5k-mkh92gx7/canvas/j7jm30q94w-mkh92rzg",
+      "type": "Canvas",
+      "height": 4075,
+      "width": 2550,
+      "label": {
+        "en": [
+          "1r"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "http://digipres.cjh.org/iiif/2/FL471545.jp2/full/max/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 4075,
+          "width": 2550,
+          "service": [
+            {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "http://digipres.cjh.org/iiif/2/FL471545.jp2",
+              "protocol": "http://iiif.io/api/image",
+              "width": 2550,
+              "height": 4075,
+              "sizes": [
+                {
+                  "width": 80,
+                  "height": 127
+                },
+                {
+                  "width": 159,
+                  "height": 255
+                },
+                {
+                  "width": 319,
+                  "height": 509
+                },
+                {
+                  "width": 638,
+                  "height": 1019
+                },
+                {
+                  "width": 1275,
+                  "height": 2038
+                },
+                {
+                  "width": 2550,
+                  "height": 4075
+                }
+              ],
+              "tiles": [
+                {
+                  "width": 1024,
+                  "height": 1024,
+                  "scaleFactors": [
+                    1,
+                    2,
+                    4,
+                    8,
+                    16,
+                    32
+                  ]
+                }
+              ],
+              "profile": [
+                "http://iiif.io/api/image/2/level2.json",
+                {
+                  "formats": [
+                    "tif",
+                    "jpg",
+                    "gif",
+                    "png"
+                  ],
+                  "maxArea": 10391250,
+                  "qualities": [
+                    "bitonal",
+                    "default",
+                    "gray",
+                    "color"
+                  ],
+                  "supports": [
+                    "regionByPx",
+                    "sizeByW",
+                    "sizeByWhListed",
+                    "cors",
+                    "regionSquare",
+                    "sizeByDistortedWh",
+                    "canonicalLinkHeader",
+                    "sizeByConfinedWh",
+                    "sizeByPct",
+                    "jsonldMediaType",
+                    "regionByPct",
+                    "rotationArbitrary",
+                    "sizeByH",
+                    "baseUriRedirect",
+                    "rotationBy90s",
+                    "profileLinkHeader",
+                    "sizeByForcedWh",
+                    "sizeByWh",
+                    "mirroring"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://example.org/joegdxjdt5k-mkh92gx7/canvas/j7jm30q94w-mkh92rzg/annotation-page/svunxlzje4o-mkh92rzg",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/joegdxjdt5k-mkh92gx7/canvas/j7jm30q94w-mkh92rzg/annotation-page/svunxlzje4o-mkh92rzg/annotation/iagtdeopnl-mkh961nx",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://example.org/joegdxjdt5k-mkh92gx7/canvas/j7jm30q94w-mkh92rzg",
+              "body": {
+                "id": "http://digipres.cjh.org/iiif/2/FL471545.jp2/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 4075,
+                "width": 2550,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "http://digipres.cjh.org/iiif/2/FL471545.jp2",
+                    "protocol": "http://iiif.io/api/image",
+                    "width": 2550,
+                    "height": 4075,
+                    "sizes": [
+                      {
+                        "width": 80,
+                        "height": 127
+                      },
+                      {
+                        "width": 159,
+                        "height": 255
+                      },
+                      {
+                        "width": 319,
+                        "height": 509
+                      },
+                      {
+                        "width": 638,
+                        "height": 1019
+                      },
+                      {
+                        "width": 1275,
+                        "height": 2038
+                      },
+                      {
+                        "width": 2550,
+                        "height": 4075
+                      }
+                    ],
+                    "tiles": [
+                      {
+                        "width": 1024,
+                        "height": 1024,
+                        "scaleFactors": [
+                          1,
+                          2,
+                          4,
+                          8,
+                          16,
+                          32
+                        ]
+                      }
+                    ],
+                    "profile": [
+                      "http://iiif.io/api/image/2/level2.json",
+                      {
+                        "formats": [
+                          "tif",
+                          "jpg",
+                          "gif",
+                          "png"
+                        ],
+                        "maxArea": 10391250,
+                        "qualities": [
+                          "bitonal",
+                          "default",
+                          "gray",
+                          "color"
+                        ],
+                        "supports": [
+                          "regionByPx",
+                          "sizeByW",
+                          "sizeByWhListed",
+                          "cors",
+                          "regionSquare",
+                          "sizeByDistortedWh",
+                          "canonicalLinkHeader",
+                          "sizeByConfinedWh",
+                          "sizeByPct",
+                          "jsonldMediaType",
+                          "regionByPct",
+                          "rotationArbitrary",
+                          "sizeByH",
+                          "baseUriRedirect",
+                          "rotationBy90s",
+                          "profileLinkHeader",
+                          "sizeByForcedWh",
+                          "sizeByWh",
+                          "mirroring"
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.org/joegdxjdt5k-mkh92gx7/canvas/x7forych4kk-mkh92s1e",
+      "type": "Canvas",
+      "height": 4230,
+      "width": 5153,
+      "label": {
+        "en": [
+          "1v"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://example.org/joegdxjdt5k-mkh92gx7/canvas/x7forych4kk-mkh92s1e/annotation-page/oixjcremklq-mkh92s1e",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/joegdxjdt5k-mkh92gx7/canvas/x7forych4kk-mkh92s1e/annotation-page/oixjcremklq-mkh92s1e/annotation/higdqqeur5a-mkh97vtr",
+              "type": "Annotation",
+              "thumbnail": [
+                {
+                  "id": "http://digipres.cjh.org/iiif/2/FL471546.jp2/full/1288,/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "height": 1058,
+                  "width": 1288
+                }
+              ],
+              "motivation": "painting",
+              "target": "https://example.org/joegdxjdt5k-mkh92gx7/canvas/x7forych4kk-mkh92s1e",
+              "body": {
+                "id": "http://digipres.cjh.org/iiif/2/FL471546.jp2/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 4230,
+                "width": 5153,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "http://digipres.cjh.org/iiif/2/FL471546.jp2",
+                    "protocol": "http://iiif.io/api/image",
+                    "width": 5153,
+                    "height": 4230,
+                    "sizes": [
+                      {
+                        "width": 81,
+                        "height": 66
+                      },
+                      {
+                        "width": 161,
+                        "height": 132
+                      },
+                      {
+                        "width": 322,
+                        "height": 264
+                      },
+                      {
+                        "width": 644,
+                        "height": 529
+                      },
+                      {
+                        "width": 1288,
+                        "height": 1058
+                      },
+                      {
+                        "width": 2577,
+                        "height": 2115
+                      },
+                      {
+                        "width": 5153,
+                        "height": 4230
+                      }
+                    ],
+                    "tiles": [
+                      {
+                        "width": 1024,
+                        "height": 1024,
+                        "scaleFactors": [
+                          1,
+                          2,
+                          4,
+                          8,
+                          16,
+                          32,
+                          64
+                        ]
+                      }
+                    ],
+                    "profile": [
+                      "http://iiif.io/api/image/2/level2.json",
+                      {
+                        "formats": [
+                          "tif",
+                          "jpg",
+                          "gif",
+                          "png"
+                        ],
+                        "maxArea": 21797190,
+                        "qualities": [
+                          "bitonal",
+                          "default",
+                          "gray",
+                          "color"
+                        ],
+                        "supports": [
+                          "regionByPx",
+                          "sizeByW",
+                          "sizeByWhListed",
+                          "cors",
+                          "regionSquare",
+                          "sizeByDistortedWh",
+                          "canonicalLinkHeader",
+                          "sizeByConfinedWh",
+                          "sizeByPct",
+                          "jsonldMediaType",
+                          "regionByPct",
+                          "rotationArbitrary",
+                          "sizeByH",
+                          "baseUriRedirect",
+                          "rotationBy90s",
+                          "profileLinkHeader",
+                          "sizeByForcedWh",
+                          "sizeByWh",
+                          "mirroring"
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.org/joegdxjdt5k-mkh92gx7/canvas/k6c4nioo9vn-mkh92s3k",
+      "type": "Canvas",
+      "height": 4105,
+      "width": 2665,
+      "label": {
+        "en": [
+          "2r"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "http://digipres.cjh.org/iiif/2/FL471545.jp2/full/80,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 127,
+          "width": 80
+        }
+      ],
+      "items": [
+        {
+          "id": "https://example.org/joegdxjdt5k-mkh92gx7/canvas/k6c4nioo9vn-mkh92s3k/annotation-page/961jasf3kz4-mkh92s3k",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/joegdxjdt5k-mkh92gx7/canvas/k6c4nioo9vn-mkh92s3k/annotation-page/961jasf3kz4-mkh92s3k/annotation/yltve9sxehn-mkh96dox",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://example.org/joegdxjdt5k-mkh92gx7/canvas/k6c4nioo9vn-mkh92s3k",
+              "body": {
+                "id": "http://digipres.cjh.org/iiif/2/FL471544.jp2/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 4105,
+                "width": 2665,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "http://digipres.cjh.org/iiif/2/FL471544.jp2",
+                    "protocol": "http://iiif.io/api/image",
+                    "width": 2665,
+                    "height": 4105,
+                    "sizes": [
+                      {
+                        "width": 83,
+                        "height": 128
+                      },
+                      {
+                        "width": 167,
+                        "height": 257
+                      },
+                      {
+                        "width": 333,
+                        "height": 513
+                      },
+                      {
+                        "width": 666,
+                        "height": 1026
+                      },
+                      {
+                        "width": 1333,
+                        "height": 2053
+                      },
+                      {
+                        "width": 2665,
+                        "height": 4105
+                      }
+                    ],
+                    "tiles": [
+                      {
+                        "width": 1024,
+                        "height": 1024,
+                        "scaleFactors": [
+                          1,
+                          2,
+                          4,
+                          8,
+                          16,
+                          32
+                        ]
+                      }
+                    ],
+                    "profile": [
+                      "http://iiif.io/api/image/2/level2.json",
+                      {
+                        "formats": [
+                          "jpg",
+                          "tif",
+                          "gif",
+                          "png"
+                        ],
+                        "maxArea": 10939825,
+                        "qualities": [
+                          "bitonal",
+                          "default",
+                          "gray",
+                          "color"
+                        ],
+                        "supports": [
+                          "regionByPx",
+                          "sizeByW",
+                          "sizeByWhListed",
+                          "cors",
+                          "regionSquare",
+                          "sizeByDistortedWh",
+                          "canonicalLinkHeader",
+                          "sizeByConfinedWh",
+                          "sizeByPct",
+                          "jsonldMediaType",
+                          "regionByPct",
+                          "rotationArbitrary",
+                          "sizeByH",
+                          "baseUriRedirect",
+                          "rotationBy90s",
+                          "profileLinkHeader",
+                          "sizeByForcedWh",
+                          "sizeByWh",
+                          "mirroring"
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "structures": [
+    {
+      "id": "https://example.org/joegdxjdt5k-mkh92gx7/range/c2zv961yryv-mkh9azsq",
+      "type": "Range",
+      "label": {
+        "en": [
+          "Table of contents"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://example.org/joegdxjdt5k-mkh92gx7/range/3bx022h87xc-mkh9azsp",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Range 1"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://example.org/joegdxjdt5k-mkh92gx7/canvas/j7jm30q94w-mkh92rzg",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://example.org/joegdxjdt5k-mkh92gx7/canvas/x7forych4kk-mkh92s1e",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://example.org/joegdxjdt5k-mkh92gx7/range/c2zv961yryv-mkh9azsq/range/xu2vvgqlb1-mkh9bspy",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Range 2"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://example.org/joegdxjdt5k-mkh92gx7/canvas/k6c4nioo9vn-mkh92s3k",
+              "type": "Canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
